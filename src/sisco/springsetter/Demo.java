@@ -5,6 +5,7 @@ public class Demo {
 		
 		System.out.println("Hello");
 		System.out.println("Welcome to java");
+		System.out.println("Functional programming");
 	}
 
 }
